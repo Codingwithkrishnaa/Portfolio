@@ -1,9 +1,3 @@
-# 🚀 SmartOps Platform
-
-An enterprise-grade Project Management and Analytics platform built with Angular and NestJS.
-
----
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Krishna Ramesh Tippabotla**.
