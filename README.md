@@ -7,6 +7,7 @@ I'm a **Senior Frontend Engineer** with **12+ years of experience** building sca
 I enjoy creating clean UI architectures, reusable components, high-performance applications, and modern user experiences.
 
 💼 11+ years of experience in Frontend Development.
+
 💻 Strong expertise in Angular, TypeScript, JavaScript, HTML, CSS, REST APIs, and building scalable, responsive web applications.
 
 📍 Looking for Senior Frontend Developer opportunities.
@@ -20,10 +21,15 @@ I enjoy creating clean UI architectures, reusable components, high-performance a
 ## 🛠 Tech Stack
 
 Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript, Angular, jQuery, JSON, Bootstrap, React JS
+
 Design Tools: Photoshop, Illustrator, Adobe XD 
+
 Version Control & Dev Tools: Git, Bitbucket, SVN 
+
 Operating Systems: Windows, Mac OS 
+
 Methodologies: Agile / Scrum Other Tools: JIRA, NPM, Bower
+
 Known Languages: Telugu, English
 
 ---
