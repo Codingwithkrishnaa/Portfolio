@@ -16,27 +16,12 @@ I enjoy creating clean UI architectures, reusable components, high-performance a
 
 ## 🛠 Tech Stack
 
-### Frontend
-- Angular
-- TypeScript
-- SCSS
-- Angular Material
-- ECharts
-
----
-
-## ✨ Features
-
-- Authentication & Authorization
-- Role-Based Access Control
-- Dashboard & Analytics
-- Project Management
-- Task Management
-- Team Collaboration
-- Reports
-- Notifications
-- Dark Mode
-- Responsive Design
+Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript, Angular, jQuery, JSON, Bootstrap, React JS
+Design Tools: Photoshop, Illustrator, Adobe XD 
+Version Control & Dev Tools: Git, Bitbucket, SVN 
+Operating Systems: Windows, Mac OS 
+Methodologies: Agile / Scrum Other Tools: JIRA, NPM, Bower
+Known Languages: Telugu, English
 
 ---
 
