@@ -53,5 +53,3 @@ Email:
 krishnaramesh2407@email.com
 
 ---
-
-⭐ If you like this project, consider giving it a star!
