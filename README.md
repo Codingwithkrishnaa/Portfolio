@@ -1,49 +1,69 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Krishna Ramesh Tippabotla**.
+Hi, I'm **Krishna Ramesh Tippabotla** 👋
 
-I'm a **Senior Frontend Engineer** with **12+ years of experience** building scalable enterprise web applications using Angular, TypeScript, JavaScript, HTML, CSS, and REST APIs.
+I'm a **Senior Frontend Engineer** with **11+ years of experience** designing and developing scalable, high-performance enterprise web applications. I specialize in building modern, responsive user interfaces with a strong focus on clean architecture, reusable components, performance optimization, and exceptional user experiences.
 
-I enjoy creating clean UI architectures, reusable components, high-performance applications, and modern user experiences.
+### 💼 Professional Summary
 
-
-💼 11+ years of experience in Frontend Development.
-
-💻 Strong expertise in Angular, TypeScript, JavaScript, HTML, CSS, REST APIs, and building scalable, responsive web applications.
-
-📍 Looking for Senior Frontend Developer opportunities.
-
-🌎 Open to Hyderabad (Immediate Joiner).
-
-🏢 Previously worked at Centific and WeSquare.
+- 🚀 **11+ years** of experience in Frontend Development.
+- 💻 Expertise in **Angular, TypeScript, JavaScript, HTML5, CSS3, REST APIs, Bootstrap, and React.js**.
+- 🏗️ Experienced in developing scalable enterprise applications with reusable UI components.
+- 📱 Passionate about responsive design, performance optimization, and modern frontend architecture.
+- 🤝 Strong experience working in Agile/Scrum environments and collaborating with cross-functional teams.
+- 📍 Currently looking for **Senior Frontend Developer** opportunities.
+- 🌎 Open to opportunities in **Hyderabad** *(Immediate Joiner)*.
+- 🏢 Previously worked at **Centific** and **WeSquare**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-Frontend Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript, Angular, jQuery, JSON, Bootstrap, React JS
+### Frontend
+- Angular
+- TypeScript
+- JavaScript (ES6+)
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+- JSON
 
-Design Tools: Photoshop, Illustrator, Adobe XD 
+### Design Tools
+- Adobe XD
+- Photoshop
+- Illustrator
 
-Version Control & Dev Tools: Git, Bitbucket, SVN 
+### Version Control & Development Tools
+- Git
+- Bitbucket
+- SVN
+- NPM
+- Bower
+- JIRA
 
-Operating Systems: Windows, Mac OS 
+### Methodologies
+- Agile
+- Scrum
 
-Methodologies: Agile / Scrum Other Tools: JIRA, NPM, Bower
+### Operating Systems
+- Windows
+- macOS
 
-Known Languages: Telugu, English
+### Languages
+- English
+- Telugu
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn:
-https://linkedin.com/in/krishnarameshtippabotla
+- 💼 **LinkedIn:**  
+  https://www.linkedin.com/in/krishnarameshtippabotla
 
-GitHub:
-https://github.com/Codingwithkrishnaa
+- 💻 **GitHub:**  
+  https://github.com/Codingwithkrishnaa
 
-Email:
-krishnaramesh2407@email.com
-
----
+- 📧 **Email:**  
+  **krishnaramesh2407@email.com**
