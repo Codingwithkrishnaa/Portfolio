@@ -6,7 +6,7 @@ I'm a **Senior Frontend Engineer** with **11+ years of experience** designing an
 
 ### 💼 Professional Summary
 
-- 🚀 **11+ years** of experience in Frontend Development.
+- 🚀 **12+ years** of experience in Frontend Development.
 - 💻 Expertise in **Angular, TypeScript, JavaScript, HTML5, CSS3, REST APIs, Bootstrap, and React.js**.
 - 🏗️ Experienced in developing scalable enterprise applications with reusable UI components.
 - 📱 Passionate about responsive design, performance optimization, and modern frontend architecture.
