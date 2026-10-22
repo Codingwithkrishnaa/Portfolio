@@ -1,569 +1,349 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:312E81,70:6D28D9,100:4338CA&height=220&section=header&text=KRISHNA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineering&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Krishna — GitHub profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Your%20Name&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&height=55&lines=Engineering+Scalable+Frontend+Experiences;Building+Intelligent+AI-Powered+Applications;Angular+%7C+React+%7C+TypeScript+%7C+Python;12%2B+Years+of+Software+Engineering;Turning+Complex+Problems+Into+Clean+Solutions" alt="Typing SVG animation"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Building+Scalable+Systems+%26+Intelligent+Products;Software+Engineer+%7C+AI%2FML+%7C+Full+Stack;Turning+Complex+Problems+into+Production-Grade+Software" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.credly.com/">
-  <img src="https://img.shields.io/badge/Academic%20%26%20Professional%20Learning-Continuous%20Growth-7C3AED?style=flat-square&logo=bookstack&logoColor=white" alt="Continuous learning"/>
-</a>
-<a href="https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+India">
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white" alt="Hyderabad, India"/>
-</a>
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.0%2F10-6D28D9?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/Krishna_FrontendDev">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Krishna_FrontendDev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourname.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourname.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Krishna_FrontendDev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Krishna_FrontendDev?style=flat-square&color=4F46E5&label=FOLLOWERS" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/Krishna_FrontendDev?style=flat-square&color=6D28D9&label=TOTAL+STARS" alt="GitHub stars"/>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=flat-square)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=6D28D9&logo=github)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat-square&color=4F46E5&logo=github)
 
 </div>
 
 ---
 
-## 01. About Me
+## About Me
 
-I'm a **Senior Frontend Developer and Software Engineer** with 12+ years of experience building responsive, scalable, and maintainable web applications. My expertise spans enterprise frontend architecture, Angular development, UI engineering, data visualization, and API-driven applications.
+<div align="center">
 
-I focus on engineering solutions that balance **technical excellence, user experience, performance, security, and business impact**. From designing reusable component architectures to integrating intelligent AI assistants into enterprise dashboards, I enjoy solving complex problems with clean, practical engineering.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Engineering+reliable+software+at+scale;Shipping+AI-powered+products+end+to+end" alt="About typing" />
 
-I'm expanding my full-stack capabilities across React, Python, Django, FastAPI, and AI application development, with a focus on building end-to-end products rather than isolated interfaces.
+</div>
 
-- **Engineering:** Component architecture, design systems, reusable modules, clean code, and maintainability.
-- **Frontend:** Angular, TypeScript, JavaScript, responsive UI engineering, and data visualization.
-- **AI & ML:** LLM integrations, AI-assisted workflows, OCR, and intelligent application interfaces.
-- **Full Stack:** REST APIs, Python, FastAPI, Django, Node.js, and database fundamentals.
-- **Product Mindset:** Performance optimization, accessibility, developer experience, and business-oriented delivery.
+I am a **software engineer** focused on designing, building, and shipping production-grade systems. My work spans **distributed backend services**, **modern full stack applications**, and **applied AI/ML**, with a strong emphasis on clean architecture, performance, and long-term maintainability.
+
+- **Software Engineering** — Data structures, system design, API design, testing, and CI/CD practices applied to real-world products.
+- **AI / ML Expertise** — Building LLM-powered applications, retrieval pipelines, and machine learning models that move from notebook to production.
+- **Full Stack Development** — Responsive, accessible frontends paired with secure, scalable backends and well-modeled data layers.
+- **Product Engineering Mindset** — I optimize for user impact: measurable outcomes, fast iteration, and engineering decisions tied to business value.
 
 ### Open To
 
-`Senior Frontend Engineer` · `UI Technical Lead` · `Frontend Architect` · `Full Stack Engineer` · `AI Application Engineer`
+| | |
+|:--|:--|
+| **Roles** | Software Engineer · AI/ML Engineer · Full Stack Engineer |
+| **Engagements** | Full-time · Internships · Open Source · Research Collaboration |
+| **Interests** | Applied AI · Distributed Systems · Developer Tooling · Product Engineering |
 
 ---
 
-## 02. Tech Stack
+## Tech Stack
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,sass&theme=dark" alt="Programming languages and web technologies"/>
-</p>
+![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5B21B6?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4338CA?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4F46E5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Engineering
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,c,bash&theme=dark" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=angular,react,redux,tailwind,bootstrap,vite&theme=dark" alt="Frontend technology stack"/>
-</p>
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite,figma&theme=dark" />
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express,postgres,mysql,mongodb,sqlite&theme=dark" alt="Backend and database technologies"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,graphql,postgres,mysql,mongodb,redis&theme=dark" />
 
 ### Cloud, DevOps & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,githubactions,linux,vscode,visualstudio,postman&theme=dark" alt="Cloud, DevOps, and development tools"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,linux,nginx,postman,vscode&theme=dark" />
 
-### Additional Engineering Tools
-
-<p>
-<img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS"/>
-<img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts"/>
-<img src="https://img.shields.io/badge/REST%20APIs-4F46E5?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="LLM integration"/>
-<img src="https://img.shields.io/badge/OCR-4338CA?style=flat-square&logo=python&logoColor=white" alt="OCR"/>
-<img src="https://img.shields.io/badge/CI%2FCD-312E81?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
-</p>
+</div>
 
 ---
 
-## 03. AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| LLM Integration | Intermediate | Integrating language models into applications and contextual AI assistants. |
-| AI Application Engineering | Intermediate | Designing AI-powered workflows and conversational application experiences. |
-| Retrieval & Context Design | Developing | Structuring application data and context for relevant AI-generated responses. |
-| OCR & Document Processing | Intermediate | Extracting text from images and documents using OCR tooling. |
-| Intelligent Dashboards | Intermediate | Combining enterprise metrics, visualizations, and AI-assisted insights. |
-| Python & API Development | Developing | Building backend APIs and foundations for AI-powered products. |
-| Machine Learning Fundamentals | Learning | Exploring model fundamentals, evaluation, and practical ML applications. |
+|:--|:--:|:--|
+| **Large Language Models** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Prompt engineering, RAG pipelines, fine-tuning workflows, evaluation frameworks, agentic systems |
+| **Deep Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | PyTorch, TensorFlow, CNNs, transformers, model optimization and deployment |
+| **Natural Language Processing** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Text classification, semantic search, embeddings, summarization, entity extraction |
+| **Computer Vision** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | OpenCV, object detection, image classification, transfer learning |
+| **MLOps** | ![Intermediate](https://img.shields.io/badge/Intermediate-4F46E5?style=flat-square) | Model serving, experiment tracking, containerized inference, CI/CD for ML |
+| **Classical Machine Learning** | ![Advanced](https://img.shields.io/badge/Advanced-6D28D9?style=flat-square) | Scikit-learn, XGBoost, feature engineering, model selection, statistical analysis |
 
 ---
 
-## 04. Featured Projects
+## Featured Projects
 
-<details>
-<summary><strong>01. Smart Hospitality — AI-Powered Revenue Intelligence Dashboard</strong></summary>
+<details open>
+<summary><b>Project One — Intelligent Document Assistant</b></summary>
 
-An enterprise hospitality dashboard designed to help revenue managers monitor business performance, understand revenue trends, and interact with operational insights through data-driven visualizations and AI-assisted workflows.
+<br/>
 
-| Attribute | Details |
-|:---|:---|
-| Stack | Angular, TypeScript, HTML5, SCSS, ECharts, REST APIs, AWS |
-| Scale | Enterprise hospitality dashboard with multiple analytical widgets |
-| Performance | Component reuse, efficient rendering, and optimized data visualization |
-| Security | API integration with application-level access controls, where configured |
-| Impact | Improves visibility into revenue performance and operational metrics |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
+An enterprise-grade retrieval-augmented generation platform that enables natural-language querying across large document collections with grounded, citation-backed answers.
 
-**Engineering scope**
+| | |
+|:--|:--|
+| **Stack** | Python · FastAPI · LangChain · PostgreSQL · pgvector · React · Docker · AWS |
+| **Scale** | 100K+ documents indexed · 1K+ concurrent queries |
+| **Performance** | Sub-second retrieval · 40% latency reduction through caching and batching |
+| **Security** | JWT authentication · Role-based access control · Encrypted storage |
+| **Impact** | Reduced manual document search time by 70% |
+| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/project-one) |
 
-- Developed interactive dashboard components for hospitality business workflows.
-- Worked with revenue targets, revenue segmentation, dynamic pricing, and upselling insights.
-- Integrated charts and API-driven data into reusable UI modules.
-- Explored contextual LLM integration for revenue-management assistance.
-- Focused on maintainability, usability, and scalable frontend architecture.
+The system combines hybrid search with re-ranking to improve answer relevance, exposes a typed REST API, and ships with automated evaluation, observability, and a containerized deployment pipeline.
 
 </details>
 
 <details>
-<summary><strong>02. AI-Based Security Alert System</strong></summary>
+<summary><b>Project Two — Real-Time Analytics Platform</b></summary>
 
-A security-focused application concept supporting real-time monitoring and incident detection workflows, with an emphasis on actionable alerts and operational visibility.
+<br/>
 
-| Attribute | Details |
-|:---|:---|
-| Stack | Angular 16, TypeScript, HTML5, CSS3, Web APIs, AWS |
-| Scale | Monitoring and incident-management workflows |
-| Performance | Responsive interfaces and efficient alert presentation |
-| Security | Security-aware UI and API integration practices |
-| Impact | Supports faster access to security alerts and incident information |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
+A scalable event-driven analytics platform that ingests, processes, and visualizes streaming data with low-latency dashboards.
 
-**Engineering scope**
+| | |
+|:--|:--|
+| **Stack** | Java · Spring Boot · Kafka · Redis · PostgreSQL · Next.js · Kubernetes |
+| **Scale** | 50K+ events per second · Horizontally scalable consumers |
+| **Performance** | p95 latency under 120 ms · Zero-downtime deployments |
+| **Security** | OAuth 2.0 · API rate limiting · Audit logging |
+| **Impact** | Enabled real-time decision making for multi-tenant workloads |
+| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/project-two) |
 
-- Built frontend experiences for security-related operational workflows.
-- Structured UI components for monitoring and incident information.
-- Integrated web APIs and application data.
-- Focused on readable status indicators and actionable user experiences.
+Designed with a clean service-oriented architecture, idempotent consumers, and comprehensive integration testing to ensure reliability under load.
 
 </details>
 
 <details>
-<summary><strong>03. KHC Trade Planning Optimizer</strong></summary>
+<summary><b>Project Three — Computer Vision Inspection System</b></summary>
 
-A business application focused on supporting trade-promotion planning and optimization through structured workflows and enterprise UI components.
+<br/>
 
-| Attribute | Details |
-|:---|:---|
-| Stack | Angular, TypeScript, JavaScript, HTML, SCSS, REST APIs |
-| Scale | Business-oriented planning and optimization workflows |
-| Performance | Reusable components and efficient data-driven rendering |
-| Security | API integration and access controls according to application configuration |
-| Impact | Supports structured trade-planning activities and business decision-making |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
+An end-to-end machine learning system for automated visual quality inspection, from data pipeline and training to edge-ready inference.
 
-**Engineering scope**
+| | |
+|:--|:--|
+| **Stack** | Python · PyTorch · OpenCV · ONNX · FastAPI · Docker |
+| **Scale** | 500K+ labeled images · Multi-class defect detection |
+| **Performance** | 96% accuracy · 3x faster inference after model optimization |
+| **Security** | Signed model artifacts · Isolated inference containers |
+| **Impact** | Cut manual inspection effort by 60% |
+| **Repository** | [View on GitHub](https://github.com/YOUR_USERNAME/project-three) |
 
-- Developed enterprise UI features for planning workflows.
-- Implemented data-driven components and form interactions.
-- Emphasized consistent layouts, maintainability, and predictable application behavior.
-
-</details>
-
-<details>
-<summary><strong>04. Revenue Manager AI Assistant</strong></summary>
-
-An AI application concept that connects dashboard data with conversational workflows, enabling users to ask business-oriented questions using relevant operational context.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Angular, TypeScript, Python, FastAPI, LLM APIs |
-| Scale | Context-aware assistant for dashboard and revenue-management workflows |
-| Performance | Structured context, focused prompts, and efficient API orchestration |
-| Security | Designed around controlled context sharing and secure API-key handling |
-| Impact | Aims to make business metrics easier to interpret through conversational interaction |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
-
-**Engineering scope**
-
-- Designed an approach for passing structured dashboard data to an AI assistant.
-- Explored role-based context for revenue-management questions.
-- Investigated API integration, response handling, and conversational UI patterns.
-- Focused on grounding AI responses in available application data.
-
-</details>
-
-<details>
-<summary><strong>05. Spotify Music Request Bot</strong></summary>
-
-A personal automation project exploring chat-driven music requests, Spotify integration, and desktop automation workflows.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Python, Spotipy, Spotify API, Tesseract OCR, PyAutoGUI |
-| Scale | Chat-driven music request and playback-queue automation |
-| Performance | Lightweight scripting and event-driven request processing |
-| Security | OAuth-based authentication and controlled credential storage |
-| Impact | Connects chat commands with music-request workflows |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
-
-**Engineering scope**
-
-- Explored Spotify API integration through Python.
-- Investigated OCR-based extraction of visible chat messages.
-- Designed command-processing workflows for music requests.
-- Used desktop automation to explore playback control.
-
-</details>
-
-<details>
-<summary><strong>06. Document OCR — Intelligent Text Extraction</strong></summary>
-
-A document-processing project exploring the extraction of machine-readable text from image-based content.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Python, Tesseract OCR |
-| Scale | Image-based document text extraction |
-| Performance | Image preprocessing and OCR pipeline optimization opportunities |
-| Security | Responsible handling of source documents and extracted content |
-| Impact | Reduces manual effort involved in extracting text from supported images |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
-
-**Engineering scope**
-
-- Explored OCR pipelines for image-to-text extraction.
-- Investigated preprocessing and recognition quality.
-- Focused on practical automation and document-processing workflows.
-
-</details>
-
-<details>
-<summary><strong>07. Travel Explorer — Interactive Travel Experience</strong></summary>
-
-A frontend portfolio project concept centered on exploring destinations through responsive layouts and intuitive browsing experiences.
-
-| Attribute | Details |
-|:---|:---|
-| Stack | Angular, TypeScript, HTML5, SCSS, REST APIs |
-| Scale | Destination discovery and travel-information UI |
-| Performance | Responsive rendering and reusable presentation components |
-| Security | Safe API integration and input handling practices |
-| Impact | Demonstrates frontend architecture and experience-focused interface design |
-| Repository | [GitHub Profile](https://github.com/Krishna_FrontendDev) |
-
-**Engineering scope**
-
-- Structured destination-oriented UI components.
-- Focused on responsive layouts and accessible interactions.
-- Explored integration of external travel data into a frontend application.
+Includes reproducible training pipelines, experiment tracking, and a lightweight serving layer optimized for production environments.
 
 </details>
 
 ---
 
-## 05. Professional Experience
+## Experience
 
-### Senior Frontend Developer
+### Software Engineer Intern · Company Name
 
-**Centific Global Technologies Pvt. Ltd.** · Hyderabad, India
+`Jan 2025 — Present`
 
-`October 2021 – August 2026`
+Building and maintaining production services within a cross-functional product engineering team, contributing across backend, frontend, and machine learning workflows.
 
-Worked on enterprise frontend engineering with a focus on Angular applications, reusable UI architecture, data visualization, and API-driven workflows.
+**Scope of Work**
 
-**Scope of work**
+- Designed and delivered scalable REST APIs serving thousands of daily active users
+- Integrated LLM-powered features into core product workflows, improving user productivity
+- Improved database query performance and reduced average response time by 35%
+- Authored automated test suites and CI/CD pipelines, raising coverage above 85%
+- Collaborated with product and design on roadmap planning and technical specifications
 
-- Developed and maintained enterprise web application interfaces using Angular and TypeScript.
-- Built reusable components and modular frontend features.
-- Integrated REST APIs and managed asynchronous application data.
-- Implemented interactive dashboards and analytical visualizations.
-- Collaborated with cross-functional teams to deliver business requirements.
-- Investigated frontend defects and improved application reliability.
-- Contributed to code reviews, maintainability, and engineering best practices.
+![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-5B21B6?style=flat-square) ![React](https://img.shields.io/badge/React-6D28D9?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-4338CA?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-4F46E5?style=flat-square)
 
-**Skills:** `Angular` `TypeScript` `JavaScript` `RxJS` `SCSS` `ECharts` `REST APIs` `Git` `Azure DevOps`
+<br/>
 
-### Senior UI Engineer
+### Machine Learning Intern · Company Name
 
-**WeSquare India Pvt. Ltd.** · Hyderabad, India
+`May 2024 — Dec 2024`
 
-`September 2018 – August 2020`
+Contributed to applied machine learning initiatives, from data preparation and modeling to deployment and monitoring.
 
-Contributed to UI engineering and frontend application development, emphasizing reusable components, consistent styling, and responsive user experiences.
+**Scope of Work**
 
-**Scope of work**
+- Developed and evaluated classification and NLP models on large-scale datasets
+- Built data pipelines and feature stores to support reproducible experimentation
+- Deployed model inference services with containerized, monitored endpoints
+- Presented findings and recommendations to engineering and product stakeholders
 
-- Developed web interfaces using modern JavaScript and frontend technologies.
-- Implemented reusable UI components and layouts.
-- Collaborated with designers and developers on interface requirements.
-- Supported frontend integration, debugging, and ongoing maintenance.
-
-**Skills:** `JavaScript` `HTML5` `CSS3` `Angular` `SCSS` `Responsive Design`
-
-### UI/UX Designer
-
-**ICONMA Professional Services & Solutions** · Hyderabad, India
-
-`March 2016 – August 2018`
-
-Worked across UI design and implementation, translating interface requirements into usable, consistent web experiences.
-
-**Scope of work**
-
-- Created and refined application interfaces.
-- Worked with layout structures, typography, and visual consistency.
-- Collaborated with development teams on design implementation.
-- Supported usability improvements and interface refinement.
-
-**Skills:** `UI/UX` `HTML5` `CSS3` `JavaScript` `Wireframing` `Responsive Design`
-
-### UI Developer
-
-**MXC Solutions India Pvt. Ltd.** · Kakinada, India
-
-`March 2015 – March 2016`
-
-Developed web interfaces and supported frontend implementation for business applications.
-
-**Scope of work**
-
-- Implemented web page layouts and interactive UI components.
-- Applied HTML, CSS, and JavaScript to interface requirements.
-- Supported browser compatibility and UI debugging.
-- Collaborated with team members on feature delivery.
-
-**Skills:** `HTML5` `CSS3` `JavaScript` `jQuery` `Web Development`
-
-### Web Developer
-
-**Prominere Software Solutions** · Kakinada, India
-
-`July 2012 – March 2015`
-
-Built foundational experience in web development, interface implementation, and website maintenance.
-
-**Scope of work**
-
-- Developed and maintained web pages and application interfaces.
-- Implemented layouts using HTML, CSS, and JavaScript.
-- Supported cross-browser testing and defect resolution.
-- Worked with team members to deliver web development requirements.
-
-**Skills:** `HTML` `CSS` `JavaScript` `Web Development` `UI Implementation`
+![PyTorch](https://img.shields.io/badge/PyTorch-4C1D95?style=flat-square) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-5B21B6?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-6D28D9?style=flat-square) ![MLflow](https://img.shields.io/badge/MLflow-4338CA?style=flat-square)
 
 ---
 
-## 06. Achievements & Recognition
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-|:---|:---|
-| 12+ Years of Experience | Long-term experience spanning web development, UI/UX, and enterprise frontend engineering. |
-| Enterprise Application Engineering | Experience building Angular-based business applications and dashboard interfaces. |
-| Consistent Performance | Reported annual performance ratings of 4 during employment at Centific. |
-| AI Application Exploration | Building practical experience with LLM integrations, OCR, and intelligent application workflows. |
-| Continuous Technical Growth | Expanding skills toward full-stack development and AI-powered products. |
+|:--|:--|
+| **National Hackathon Finalist** | Top 10 among 5,000+ participants for an AI-driven product solution |
+| **Competitive Programming** | 500+ problems solved across major platforms with consistent contest participation |
+| **Open Source Contributor** | Merged contributions to widely used open-source repositories |
+| **Academic Excellence** | Consistent top-tier academic performance with merit recognition |
+| **Technical Leadership** | Led a team of engineers in building and delivering an end-to-end product |
 
 </div>
 
 ---
 
-## 07. Certifications & Professional Learning
+## Certifications
+
+<div align="center">
 
 ### AWS
 
-<a href="https://www.credly.com/">
-  <img src="https://img.shields.io/badge/AWS-Certification%20Profile-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS certification profile"/>
-</a>
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Oracle
 
-<a href="https://education.oracle.com/">
-  <img src="https://img.shields.io/badge/Oracle-Professional%20Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle learning"/>
-</a>
+![Oracle Cloud Infrastructure Foundations](https://img.shields.io/badge/Oracle-OCI%20Foundations%20Associate-4338CA?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Certified Java Programmer](https://img.shields.io/badge/Oracle-Java%20SE%20Programmer-4F46E5?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### NPTEL
 
-<a href="https://nptel.ac.in/">
-  <img src="https://img.shields.io/badge/NPTEL-Online%20Learning-4338CA?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="NPTEL learning"/>
-</a>
+![NPTEL Data Structures and Algorithms](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-5B21B6?style=for-the-badge&logo=googlescholar&logoColor=white)
+![NPTEL Machine Learning](https://img.shields.io/badge/NPTEL-Introduction%20to%20Machine%20Learning-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 ### Cisco
 
-<a href="https://www.netacad.com/">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Education-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco learning"/>
-</a>
-
-*Certification-specific badges and credential links can be added once the corresponding completed certifications are verified.*
-
----
-
-## 08. Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-DSA%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
+![Cisco Networking Essentials](https://img.shields.io/badge/Cisco-Networking%20Essentials-312E81?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco Python Essentials](https://img.shields.io/badge/Cisco-Python%20Essentials-4338CA?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
 ---
 
-## 09. GitHub Analytics
+## Coding Profiles
 
 <div align="center">
 
-<a href="https://github.com/Krishna_FrontendDev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Krishna_FrontendDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/Krishna_FrontendDev">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna_FrontendDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
-</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-YOUR__HANDLE-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_HANDLE)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-YOUR__HANDLE-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/YOUR_HANDLE)
+[![HackerRank](https://img.shields.io/badge/HackerRank-YOUR__HANDLE-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_HANDLE)
+[![CodeChef](https://img.shields.io/badge/CodeChef-YOUR__HANDLE-4338CA?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_HANDLE)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Krishna_FrontendDev&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-## 10. GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Krishna_FrontendDev&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" alt="GitHub profile trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
 ---
 
-## 11. Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishna_FrontendDev&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true&radius=10" width="100%" />
 
 </div>
 
 ---
 
-## 12. Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Krishna_FrontendDev/Krishna_FrontendDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
 ---
 
-## 13. Current Focus
+## Current Focus
 
 ```yaml
-profile:
-  role: "Senior Frontend Developer"
-  experience: "12+ years"
-  direction: "Full Stack & AI Engineering"
+Learning:
+  - Advanced System Design and Distributed Architectures
+  - LLM Evaluation, Fine-Tuning, and Agentic Workflows
+  - Cloud-Native Engineering and Infrastructure as Code
 
-learning:
-  - React and advanced frontend architecture
-  - Python and Django
-  - FastAPI and backend API design
-  - LLM integration and AI application engineering
-  - Data structures and algorithms
+Building:
+  - Production-grade AI applications with retrieval and tool use
+  - Scalable full stack products with strong observability
+  - Developer tooling to improve engineering productivity
 
-building:
-  - AI-powered revenue management assistant
-  - Personal AI assistant with voice and text interaction
-  - Reusable frontend architecture and developer tools
-  - Practical portfolio projects with end-to-end functionality
+Exploring:
+  - Multi-agent systems and reasoning models
+  - High-performance inference and model optimization
+  - Open source contributions in the AI and tooling ecosystem
 
-exploring:
-  - AI agents and tool calling
-  - Context engineering for LLM applications
-  - Cloud deployment and CI/CD
-  - Application performance and security
-  - Full-stack product development
-
-open_to:
-  - Senior Frontend Engineer
-  - UI Technical Lead
-  - Frontend Architect
-  - Full Stack Engineer
-  - AI Application Engineer
+Open To:
+  - Software Engineering and AI/ML Engineering roles
+  - Research collaborations and open source projects
+  - Technical mentorship and engineering discussions
 ```
 
 ---
 
-## 14. Connect With Me
+## Connect
 
 <div align="center">
 
-<a href="mailto:">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Krishna_FrontendDev">
-  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://github.com/Krishna_FrontendDev">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-**Open to meaningful engineering challenges, collaborative teams, and opportunities to build products that matter.**
+[![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--username-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yourname.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourname.dev)
 
 </div>
 
 ---
 
-## 15. Footer
-
 <div align="center">
 
-*“Great software is built on timeless engineering principles, thoughtful design, and a relentless commitment to making things better.”*
+*"Great software is built with precision, shipped with purpose, and improved without end."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,35:6D28D9,70:312E81,100:0D1117&height=120&section=footer" width="100%" alt="Purple gradient footer banner"/>
-
-<sub>Designed with precision · Built with purpose · Always learning</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%" />
 
 </div>
